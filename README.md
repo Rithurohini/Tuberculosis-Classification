@@ -8,7 +8,7 @@
 ## <h2>Get Started with </h2>
 
 ```bash
-https://github.com/Rithurohini/Tuberculosis-Classification
+https://github.com/Rohini-Viswanathan/Tuberculosis-Diagnosis-System-using-CNN
 ```
 
 ## <h3>Dataset Description</h3>
@@ -23,7 +23,7 @@ Researchers from Qatar University and the University of Dhaka, with collaborator
 To run this project locally, follow these steps:
 1. **Clone this Repository** :
    ```bash
-   git clone https://github.com/Rithurohini/Tuberculosis-Classification
+   https://github.com/Rohini-Viswanathan/Tuberculosis-Diagnosis-System-using-CNN
    ```
 
 2. **Install Python** :
