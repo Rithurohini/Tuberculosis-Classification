@@ -1,6 +1,5 @@
-
-# Project Title
-## LUNG X-RAY IMAGE CLASSIFICATION USING DEEP NEURAL NETWORK
+# Cloud Enabled Tuberculosis Diagnosis System using Convolutional Neural Network (CNN)
+<img src="img/tuberculosis_image.png">
 
 
 
